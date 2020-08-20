@@ -132,5 +132,5 @@ dmypy.json
 data/
 
 # always
-.idea
+.idea/
 .DS_Store
